@@ -5,3 +5,5 @@ More specifically, the following are present:
   - All files in the c++ runtime directory: https://github.com/antlr/antlr4/tree/master/runtime/Cpp/runtime
 
 The contents of this repository were created via: https://github.com/AndrewPratt0x40/Antlr4CppRuntimeCloner
+
+This repository is in no way affiliated with ANTLR.
